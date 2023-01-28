@@ -16,6 +16,7 @@ public class SteamIfpb {
         Scanner sc = new Scanner(System.in);
         Distribuidora distribuidora = null;
         Game game = null;
+        System.out.println("oi");
                 
         String nomeD, site, nomeG, genero;
         int codigoD, codigoG, codigoDist;
